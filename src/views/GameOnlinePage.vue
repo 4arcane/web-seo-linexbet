@@ -1,5 +1,4 @@
 l<template>
-    <link rel="stylesheet" id="css" href="/public/css/bootstrap.min.css" type="text/css" media="all" />
     <div class="wrapper">
         <div class="tt_l tt_full p_gl">
             <div class="tt_l tt_full tt_content c_bg">
