@@ -31,7 +31,7 @@
                   src="/public/img/Line_Contact_01.png">
               </a>
               <a class="tt_r link_bk" title="ฝากถอนอัติโนมัติ" href="https://app.linexxbet.com/auth"><img
-                  src="https://sexygame666d.com/wp-content/themes/sexygame66.com/images/btn-banking.gif"></a>
+                  src="/public/img/btn-banking.gif"></a>
             </div>
           </div>
         </div>
@@ -57,7 +57,7 @@
               <li id="menu-item-402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-402"><a
                   href="/">
                   <meta
-                    content="หาเว็บเล่นบาคาร่าออนไลน์อยู่ใช่ไหม sexy baccarat sexygame บาคาร่า บาคาร่าออนไลน์ คาสิโน คาสิโนออนไลน์ที่นี่ SEXYGAME666 คาสิโนออนไลน์ระดับพรีเมี่ยม ที่มีสาวสวยมาแจกไพ่ ระบบฝาก-ถอน Auto 10 วินาที ไม่ต้องรอ คุณลูกค้าต้องลองแล้วจะรู้ว่า"
+                    content="หาเว็บเล่นบาคาร่าออนไลน์อยู่ใช่ไหม sexy baccarat sexygame บาคาร่า บาคาร่าออนไลน์ คาสิโน คาสิโนออนไลน์ที่นี่ LINEXBET คาสิโนออนไลน์ระดับพรีเมี่ยม ที่มีสาวสวยมาแจกไพ่ ระบบฝาก-ถอน Auto 10 วินาที ไม่ต้องรอ คุณลูกค้าต้องลองแล้วจะรู้ว่า"
                     name="description"><i class="fas fa-home"></i> หน้าหลัก
                 </a></li>
               <li id="menu-item-607" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-607"><a

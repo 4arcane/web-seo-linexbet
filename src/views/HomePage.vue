@@ -112,10 +112,10 @@ const breakpoints = {
                         <a title="PP Casino" href="/เกมออนไลน์">
                             <figure class="imghvr-fold-up">
                                 <img width="228" height="278"
-                                    src="https://sexygame666d.com/wp-content/uploads/2022/05/sx66.png">
+                                    src="/public/img/sx66.png">
                                 <figcaption>
                                     <img width="228" height="278"
-                                        src="https://sexygame666d.com/wp-content/uploads/2022/05/sx66.png">
+                                        src="/public/img/sx66.png">
                                 </figcaption>
                             </figure>
                         </a>
@@ -126,10 +126,10 @@ const breakpoints = {
                         <a title="DREAM GAMING" href="/เกมออนไลน์">
                             <figure class="imghvr-fold-up">
                                 <img width="228" height="278"
-                                    src="https://sexygame666d.com/wp-content/uploads/2022/05/dream.png">
+                                    src="/public/img/dream.png">
                                 <figcaption>
                                     <img width="228" height="278"
-                                        src="https://sexygame666d.com/wp-content/uploads/2022/05/dream.png">
+                                        src="/public/img/dream.png">
                                 </figcaption>
                             </figure>
                         </a>
@@ -140,10 +140,10 @@ const breakpoints = {
                         <a title="AMB POKER" href="/เกมออนไลน์">
                             <figure class="imghvr-fold-up">
                                 <img width="228" height="278"
-                                    src="https://sexygame666d.com/wp-content/uploads/2022/05/amb-poker.png">
+                                    src="/public/img/amb-poker.png">
                                 <figcaption>
                                     <img width="228" height="278"
-                                        src="https://sexygame666d.com/wp-content/uploads/2022/05/amb-poker.png">
+                                        src="/public/img/amb-poker.png">
                                 </figcaption>
                             </figure>
                         </a>
@@ -154,10 +154,10 @@ const breakpoints = {
                         <a title="LALIKA" href="/เกมออนไลน์">
                             <figure class="imghvr-fold-up">
                                 <img width="228" height="278"
-                                    src="https://sexygame666d.com/wp-content/uploads/2024/07/LLK.png">
+                                    src="/public/img/LLK.png">
                                 <figcaption>
                                     <img width="228" height="278"
-                                        src="https://sexygame666d.com/wp-content/uploads/2024/07/LLK.png">
+                                        src="/public/img/LLK.png">
                                 </figcaption>
                             </figure>
                         </a>
@@ -168,10 +168,10 @@ const breakpoints = {
                         <a title="SBO" href="/เกมออนไลน์">
                             <figure class="imghvr-fold-up">
                                 <img width="228" height="278"
-                                    src="https://sexygame666d.com/wp-content/uploads/2022/05/sbo.png">
+                                    src="/public/img/sbo.png">
                                 <figcaption>
                                     <img width="228" height="278"
-                                        src="https://sexygame666d.com/wp-content/uploads/2022/05/sbo.png">
+                                        src="/public/img/sbo.png">
                                 </figcaption>
                             </figure>
                         </a>
@@ -206,10 +206,10 @@ const breakpoints = {
                         <a title="KINGMAKER *" href="/เกมออนไลน์">
                             <figure class="imghvr-fold-up">
                                 <img width="228" height="278"
-                                    src="https://sexygame666d.com/wp-content/uploads/2022/05/km.png">
+                                    src="/public/img/km.png">
                                 <figcaption>
                                     <img width="228" height="278"
-                                        src="https://sexygame666d.com/wp-content/uploads/2022/05/km.png">
+                                        src="/public/img/km.png">
                                 </figcaption>
                             </figure>
                         </a>
@@ -220,10 +220,10 @@ const breakpoints = {
                         <a title="TFGAMING" href="/เกมออนไลน์">
                             <figure class="imghvr-fold-up">
                                 <img width="228" height="278"
-                                    src="https://sexygame666d.com/wp-content/uploads/2021/06/tf1-min.png">
+                                    src="/public/img/tf1-min.png">
                                 <figcaption>
                                     <img width="228" height="278"
-                                        src="https://sexygame666d.com/wp-content/uploads/2021/06/tf1-min.png">
+                                        src="/public/img/tf1-min.png">
                                 </figcaption>
                             </figure>
                         </a>
