@@ -274,7 +274,7 @@ const breakpoints = {
                             <img class="wp-image-5019  alignnone" style="height: 400px; width: auto;"
                                 src="/public/img/Model_11.png" alt="" width="419" height="349">
                             <a href="/เกมออนไลน์">
-                                <img class="alignnone wp-image-1151" src="/public/img/Banner_8.png" alt="" width="360"
+                                <img class="alignnone wp-image-1151" src="/public/img/XBT-Ep1.png" alt="" width="360"
                                     height="345">
                             </a>
                         </p>

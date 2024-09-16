@@ -8,8 +8,9 @@ l<template>
                         <div class="thaitheme_read">
                             <div class="row mt-3 pb-3" style="border-bottom:1px solid #ccc!important;">
                                 <div class="col-lg-7 col-12">
-                                    <a href="https://app.linexxbet.com/register?ref=8fe0093bb30d6f8c31474bd0764e6ac0"><img
-                                            src="/public/img/Banner_4.png" class="img-fluid"></a>
+                                    <a href="https://app.linexxbet.com/register?ref=8fe0093bb30d6f8c31474bd0764e6ac0">
+                                        <img src="/public/img/Banner_4.png" class="img-fluid">
+                                    </a>
                                 </div>
                                 <div class="col-lg-5 col-12">
                                     <h2 style="font-size: 26px;font-weight: bold; margin-top: 5px;    color: #e81404;">
@@ -22,7 +23,7 @@ l<template>
                             </div>
                             <div class="row mt-3 pb-3" style="border-bottom:1px solid #ccc!important;">
                                 <div class="col-lg-7 col-12">
-                                    <img src="/public/img/Banner_9.png" class="img-fluid">
+                                    <img src="/public/img/XBT-Ep1.png" class="img-fluid">
                                 </div>
                                 <div class="col-lg-5 col-12">
                                     <h2 style="font-size: 26px;font-weight: bold; margin-top: 5px;    color: #e81404;">
@@ -34,14 +35,17 @@ l<template>
                             </div>
                             <div class="row mt-3 pb-3" style="border-bottom:1px solid #ccc!important;">
                                 <div class="col-lg-7 col-12">
-                                    <img src="/public/img/Banner_8.png" class="img-fluid">
+                                    <img src="/public/img/XBT-Ep2.png" class="img-fluid">
                                 </div>
                                 <div class="col-lg-5 col-12">
                                     <h2 style="font-size: 16px; font-weight: bold; margin-top: 5px;    color: #e81404;">
                                     </h2>
-                                    <h2 class="pro-titlex"><a><span
-                                                style="font-weight: bold;color: #e81404;">สมาชิกใหม่รับโบนัส
-                                                60%</span></a>
+                                    <h2 class="pro-titlex">
+                                        <a>
+                                            <span style="font-weight: bold;color: #e81404;">สมาชิกใหม่รับโบนัส
+                                                60%
+                                            </span>
+                                        </a>
                                     </h2>
                                     <a>รับโบนัสสูงสุดไม่เกิน 1000 บาท ยอดเทิร์นโอเวอร์ 20 เท่า</a>
                                     <br>
@@ -49,7 +53,8 @@ l<template>
                                         <h2
                                             style="font-size: 20px;font-weight: bold; margin-top: 5px;   color: #e81404;">
                                             *หากพบว่ามีการสร้างหลาย user เพื่อแทงสวน หรือ เก็บฟรีสปินเพื่อทำ Bug
-                                            ของเกมที่มีโบนัสฟรีเกมส์ ทางทีมงานจะระงับการจ่ายเงินทุกกรณี !!</h2>
+                                            ของเกมที่มีโบนัสฟรีเกมส์ ทางทีมงานจะระงับการจ่ายเงินทุกกรณี !!
+                                        </h2>
                                     </div>
                                     *สามารถเลือกรับโบนัสหมวด Casino / Slot ได้
                                     <!--  <p>รับโบนัสสูงสุดไม่เกิน 1000  บาท ยอดเทิร์นโอเวอร์ 20 เท่า</p> -->
@@ -58,7 +63,7 @@ l<template>
                             </div>
                             <div class="row mt-3 pb-3" style="border-bottom:1px solid #ccc!important;">
                                 <div class="col-lg-7 col-12">
-                                    <img src="/public/img/Banner_10.png" class="img-fluid">
+                                    <img src="/public/img/XBT-Ep3.png" class="img-fluid">
                                 </div>
                                 <div class="col-lg-5 col-12">
                                     <h2 style="font-size: 16px; font-weight: bold; margin-top: 5px;    color: #e81404;">
@@ -81,7 +86,7 @@ l<template>
                             </div>
                             <div class="row mt-3 pb-3" style="border-bottom:1px solid #ccc!important;">
                                 <div class="col-lg-7 col-12">
-                                    <img src="/public/img/Banner_13.png" class="img-fluid">
+                                    <img src="/public/img/XBT-Ep4.png" class="img-fluid">
                                 </div>
                                 <div class="col-lg-5 col-12">
                                     <h2 style="font-size: 16px; font-weight: bold; margin-top: 5px;    color: #e81404;">
@@ -96,11 +101,13 @@ l<template>
                                             Bug
                                             โบนัสฟรีเกมส์ หากตรวจสอบพบ จะระงับการจ่ายเงิน ทุกกรณี!!</h2>
                                     </div>
-                                    <span style="font-weight: bold;color:white;"><u>*ต้องมีอายุการสมัครมาแล้วอย่างน้อย
+                                    <span style="font-weight: bold;color:white;">
+                                        <u>*ต้องมีอายุการสมัครมาแล้วอย่างน้อย
                                             30
                                             วันและไม่เคยรับโปรโมชั่นฝากครั้งแรกมาก่อน สามารถเลือกรับโบนัสหมวด Casino /
                                             Slot
-                                            ได้ </u>
+                                            ได้
+                                        </u>
                                         <!--  <p>รับโบนัสสูงสุดไม่เกิน 1000  บาท ยอดเทิร์นโอเวอร์ 20 เท่า</p> -->
                                         <br>
                                     </span>
@@ -108,49 +115,52 @@ l<template>
                             </div>
                             <div class="row mt-3 pb-3" style="border-bottom:1px solid #ccc!important;">
                                 <div class="col-lg-7 col-12">
-                                    <img src="/public/img/Banner_11.png" class="img-fluid">
+                                    <img src="/public/img/XBT-Ep5.png" class="img-fluid">
                                 </div>
                                 <div class="col-lg-5 col-12">
                                     <h2 style="font-size: 26px;font-weight: bold; margin-top: 5px;    color: #e81404;">
-                                        แนะนำเพื่อนรับค่าคอมมิชชั่น 0.8% ทันที</h2>
+                                        แนะนำเพื่อนรับค่าคอมมิชชั่น 0.8% ทันที
+                                    </h2>
                                     <p>เพียงแค่ท่านชวนเพื่อนครั้งเดียว รับค่าคอมมิชชั่นยอดได้เสียของเพื่อนทันที
                                         สร้างรายได้กว่าเดือนละ 100,000 บาท ชวนเยอะได้เยอะ เพื่อนเดิมพัน 1,000 บาท
-                                        คุณได้ทันที 8 บาท</p>
-                                    <br>
-                                </div>
-                            </div>
-                            <div class="row mt-3 pb-3" style="border-bottom:1px solid #ccc!important;">
-                                <div class="col-lg-7 col-12">
-                                    <img src="/public/img/Banner_14.png" class="img-fluid">
-                                </div>
-                                <div class="col-lg-5 col-12">
-                                    <h2 style="font-size: 26px;font-weight: bold; margin-top: 5px;    color: #e81404;">
-                                        รับเงินคืน 0.3% ทุกยอดการเดิมพัน</h2>
-                                    <p>ท่านสามารถกดรับโบนัสเงินคืน 0.3% ได้หลังจากมีรายการเล่น
-                                        ระบบนับจากยอดได้เสียเท่านั้น..ไม่นับเสมอ..</p>
-                                    <br>
-                                </div>
-                            </div>
-                            <div class="row mt-3 pb-3" style="border-bottom:1px solid #ccc!important;">
-                                <div class="col-lg-7 col-12">
-                                    <img src="/public/img/Banner_12.png" class="img-fluid">
-                                </div>
-                                <div class="col-lg-5 col-12">
-                                    <h2 style="font-size: 26px;font-weight: bold; margin-top: 5px;    color: #e81404;">
-                                        โปรวันเกิด! เกิดปุ๊บ..รับปั๊บ 500 บาททันที</h2>
-                                    <p>เมื่อถึงวันเกิดของท่าน เพียงแค่ท่านโชว์บัตรประชาชนให้ทีมงานรับทันทีเครดิต 500 บาท
-                                        (สามารถถอนเงินได้ทันที) *ท่านต้องมียอดฝากเงินและยอดได้เสีย รวมเกิน 1000 บาท
-                                        ถึงจะรับโปรนี้ได้<br>
-                                        <!-- <button onclick="modal4();"
-                                            class="btn btn-secondary btn-sm color-white" style="font-size: 11px"><i
-                                                class="fas fa-info-circle"></i> รายละเอียดเพิ่มเติม</button>  -->
+                                        คุณได้ทันที 8 บาท
                                     </p>
                                     <br>
                                 </div>
                             </div>
                             <div class="row mt-3 pb-3" style="border-bottom:1px solid #ccc!important;">
                                 <div class="col-lg-7 col-12">
-                                    <img src="/public/img/Banner_15.png" class="img-fluid">
+                                    <img src="/public/img/XBT-Ep6.png" class="img-fluid">
+                                </div>
+                                <div class="col-lg-5 col-12">
+                                    <h2 style="font-size: 26px;font-weight: bold; margin-top: 5px;    color: #e81404;">
+                                        รับเงินคืน 0.3% ทุกยอดการเดิมพัน
+                                    </h2>
+                                    <p>ท่านสามารถกดรับโบนัสเงินคืน 0.3% ได้หลังจากมีรายการเล่น
+                                        ระบบนับจากยอดได้เสียเท่านั้น..ไม่นับเสมอ..
+                                    </p>
+                                    <br>
+                                </div>
+                            </div>
+                            <div class="row mt-3 pb-3" style="border-bottom:1px solid #ccc!important;">
+                                <div class="col-lg-7 col-12">
+                                    <img src="/public/img/XBT-Ep7.png" class="img-fluid">
+                                </div>
+                                <div class="col-lg-5 col-12">
+                                    <h2 style="font-size: 26px;font-weight: bold; margin-top: 5px;    color: #e81404;">
+                                        โปรวันเกิด! เกิดปุ๊บ..รับปั๊บ 500 บาททันที
+                                    </h2>
+                                    <p>เมื่อถึงวันเกิดของท่าน เพียงแค่ท่านโชว์บัตรประชาชนให้ทีมงานรับทันทีเครดิต 500 บาท
+                                        (สามารถถอนเงินได้ทันที) *ท่านต้องมียอดฝากเงินและยอดได้เสีย รวมเกิน 1000 บาท
+                                        ถึงจะรับโปรนี้ได้
+                                        <br>
+                                    </p>
+                                    <br>
+                                </div>
+                            </div>
+                            <div class="row mt-3 pb-3" style="border-bottom:1px solid #ccc!important;">
+                                <div class="col-lg-7 col-12">
+                                    <img src="/public/img/XBT-Ep8.png" class="img-fluid">
                                 </div>
                                 <div class="col-lg-5 col-12">
                                     <h2 style="font-size: 26px;font-weight: bold; margin-top: 5px;    color: #e81404;">
@@ -166,7 +176,7 @@ l<template>
                             </div>
                             <div class="row mt-3 pb-3" style="border-bottom:1px solid #ccc!important;">
                                 <div class="col-lg-7 col-12">
-                                    <img src="/public/img/Banner_16.png" class="img-fluid">
+                                    <img src="/public/img/XBT-Ep9.png" class="img-fluid">
                                 </div>
                                 <div class="col-lg-5 col-12">
                                     <h2 style="font-size: 26px;font-weight: bold; margin-top: 5px;    color: #e81404;">
@@ -184,7 +194,7 @@ l<template>
                             </div>
                             <div class="row mt-3 pb-3" style="border-bottom:1px solid #ccc!important;">
                                 <div class="col-lg-7 col-12">
-                                    <img src="/public/img/Banner_17.png" class="img-fluid">
+                                    <img src="/public/img/XBT-Ep10.png" class="img-fluid">
                                 </div>
                                 <div class="col-lg-5 col-12">
                                     <h2 style="font-size: 26px;font-weight: bold; margin-top: 5px;    color: #e81404;">
