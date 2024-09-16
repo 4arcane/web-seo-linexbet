@@ -255,7 +255,7 @@ const breakpoints = {
                         <p style="text-align: center;">
                             <img style="height: 400px; width: auto;" class="wp-image-5017  alignnone"
                                 src="/public/img/Model_01.png" alt="" width="391" height="326">&nbsp; &nbsp;
-                            <a href="https://line.me/R/ti/p/@147ucewm?oat_content=url&ts=06181339">
+                            <a href="https://line.me/R/ti/p/@LX789">
                                 <img class="alignnone size-full wp-image-1389" src="/public/img/howto2.png" alt=""
                                     width="383" height="400">
                             </a>

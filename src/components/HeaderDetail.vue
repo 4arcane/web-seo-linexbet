@@ -1,7 +1,7 @@
 <template>
   <div class="tt-l tt-full head_mc">
     <div class="tt_l h-linem">
-      <a href="https://line.me/R/ti/p/@147ucewm?oat_content=url&ts=06181339" target="_blank"><img width="140" height="46"
+      <a href="https://line.me/R/ti/p/@LX789" target="_blank"><img width="140" height="46"
           src="/public/img/button-lineadd.jpg"></a>
     </div>
   </div>
@@ -25,8 +25,8 @@
               <a class="tt_l link_logo" title="LINEXBET เล่นคาสิโนออนไลน์ รับโบนัส 60%"
                 href="/">
                 <img style="object-fit: cover; height: 150px; width: 100%;" src="/public/img/Logo_01.png"></a>
-              <a class="tt_l link_line" title="แอดไลน์  ID : @LINEXBET" target="_blank"
-                href="https://line.me/R/ti/p/@147ucewm?oat_content=url&ts=06181339">
+              <a class="tt_l link_line" title="แอดไลน์  ID : @LX789" target="_blank"
+                href="https://line.me/R/ti/p/@LX789">
                 <img height="120" style="object-fit: contain; height: 100px; width: 100%; margin: 31px 0px 0px 0px;"
                   src="/public/img/Line_Contact_01.png">
               </a>
@@ -40,8 +40,8 @@
             <img height="300" style="object-fit: cover; height: 300px; width: 100%;" src="/public/img/Logo_01.png">
             <div class="tt_l head_m_link">
               <a class="tt_l logo_m" href="/"></a>
-              <a class="tt_l head_m_line" title="แอดไลน์  ID : @LINEXBET" target="_blank"
-                href="https://line.me/R/ti/p/@147ucewm?oat_content=url&ts=06181339"></a>
+              <a class="tt_l head_m_line" title="แอดไลน์  ID : @LX789" target="_blank"
+                href="https://line.me/R/ti/p/@LX789"></a>
             </div>
           </div>
         </div>
@@ -84,7 +84,7 @@
                 class="hide login menu-item menu-item-type-post_type menu-item-object-page menu-item-1058"><a
                   href="/"><i class="fas fa-credit-card"> </i> ฝากเงิน</a></li>
               <li id="menu-item-404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a
-                  href="https://line.me/R/ti/p/@147ucewm?oat_content=url&ts=06181339"><i class="fas fa-phone"></i> ติดต่อเรา</a></li>
+                  href="https://line.me/R/ti/p/@LX789"><i class="fas fa-phone"></i> ติดต่อเรา</a></li>
             </ul>
           </div>
         </div>

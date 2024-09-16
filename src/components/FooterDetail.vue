@@ -29,7 +29,7 @@
                         <strong>ติดต่อเรา</strong>
                         <span style="color: #fff;"><a href="/">ติดต่อเว็บไซต์</a></span>
                         <span style="color: #fff;"><a
-                                href="https://line.me/R/ti/p/@147ucewm?oat_content=url&ts=06181339"
+                                href="https://line.me/R/ti/p/@LX789"
                                 rel="nofollow noopener" target="_blank">ติดต่อสอบถาม</a></span>
                         <span>เกี่ยวกับเรา</span>
                         <span>วิธีการเล่นบาคาร่า</span>
@@ -41,7 +41,7 @@
 
                 <div class="tt_r cr_footer">
                     <div class="tt_l tt_full mb-10">
-                        <a href="https://line.me/R/ti/p/@147ucewm?oat_content=url&ts=06181339" target="_blank">
+                        <a href="https://line.me/R/ti/p/@LX789" target="_blank">
                             <img class="img_line" src="/public/img/line-add.png">
                             <!-- <span>ID LINE I <strong class="tx-li">@</strong></span> -->
                         </a>

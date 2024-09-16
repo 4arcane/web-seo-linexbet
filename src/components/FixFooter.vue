@@ -8,7 +8,7 @@
             <strong>สมัครสมาชิก</strong></a>
         <a href="/โปรโมชั่น"><span class="link_ico ico_2"><i class="fas fa-gift"></i></span>
             <strong>โปรโมชั่น</strong></a>
-        <a class="last" href="https://line.me/R/ti/p/@147ucewm?oat_content=url&ts=06181339"><span class="link_ico ico_5"> <i class="  fas fa-phone"></i>
+        <a class="last" href="https://line.me/R/ti/p/@LX789"><span class="link_ico ico_5"> <i class="  fas fa-phone"></i>
             </span><strong> ติดต่อเรา</strong></a>
     </div>
 </template>
