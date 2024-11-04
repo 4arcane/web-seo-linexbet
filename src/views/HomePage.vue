@@ -4,11 +4,20 @@ import { Carousel, Slide, Navigation } from 'vue3-carousel'
 import Banner_2 from '/public/img/Banner_2.png';
 import Banner_3 from '/public/img/Banner_3.png';
 import Banner_5 from '/public/img/Banner_5.png';
+import p1 from '/public/img/p1.jpg';
+import p2 from '/public/img/p2.jpg';
+import p3 from '/public/img/p3.jpg';
 
 const slides = [
     { id: '1', src: Banner_2 },
     { id: '2', src: Banner_3 },
     { id: '3', src: Banner_5 },
+]
+
+const slides2 = [
+    { id: '1', src: p1 },
+    { id: '2', src: p2 },
+    { id: '3', src: p3 },
 ]
 
 const settings = {
@@ -111,11 +120,9 @@ const breakpoints = {
                         style="visibility: visible; animation-name: zoomIn;">
                         <a title="PP Casino" href="/เกมออนไลน์">
                             <figure class="imghvr-fold-up">
-                                <img width="228" height="278"
-                                    src="/public/img/sx66.png">
+                                <img width="228" height="278" src="/public/img/sx66.png">
                                 <figcaption>
-                                    <img width="228" height="278"
-                                        src="/public/img/sx66.png">
+                                    <img width="228" height="278" src="/public/img/sx66.png">
                                 </figcaption>
                             </figure>
                         </a>
@@ -125,11 +132,9 @@ const breakpoints = {
                         style="visibility: visible; animation-name: zoomIn;">
                         <a title="DREAM GAMING" href="/เกมออนไลน์">
                             <figure class="imghvr-fold-up">
-                                <img width="228" height="278"
-                                    src="/public/img/dream.png">
+                                <img width="228" height="278" src="/public/img/dream.png">
                                 <figcaption>
-                                    <img width="228" height="278"
-                                        src="/public/img/dream.png">
+                                    <img width="228" height="278" src="/public/img/dream.png">
                                 </figcaption>
                             </figure>
                         </a>
@@ -139,11 +144,9 @@ const breakpoints = {
                         style="visibility: visible; animation-name: zoomIn;">
                         <a title="AMB POKER" href="/เกมออนไลน์">
                             <figure class="imghvr-fold-up">
-                                <img width="228" height="278"
-                                    src="/public/img/amb-poker.png">
+                                <img width="228" height="278" src="/public/img/amb-poker.png">
                                 <figcaption>
-                                    <img width="228" height="278"
-                                        src="/public/img/amb-poker.png">
+                                    <img width="228" height="278" src="/public/img/amb-poker.png">
                                 </figcaption>
                             </figure>
                         </a>
@@ -153,11 +156,9 @@ const breakpoints = {
                         style="visibility: visible; animation-name: zoomIn;">
                         <a title="LALIKA" href="/เกมออนไลน์">
                             <figure class="imghvr-fold-up">
-                                <img width="228" height="278"
-                                    src="/public/img/LLK.png">
+                                <img width="228" height="278" src="/public/img/LLK.png">
                                 <figcaption>
-                                    <img width="228" height="278"
-                                        src="/public/img/LLK.png">
+                                    <img width="228" height="278" src="/public/img/LLK.png">
                                 </figcaption>
                             </figure>
                         </a>
@@ -167,11 +168,9 @@ const breakpoints = {
                         style="visibility: visible; animation-name: zoomIn;">
                         <a title="SBO" href="/เกมออนไลน์">
                             <figure class="imghvr-fold-up">
-                                <img width="228" height="278"
-                                    src="/public/img/sbo.png">
+                                <img width="228" height="278" src="/public/img/sbo.png">
                                 <figcaption>
-                                    <img width="228" height="278"
-                                        src="/public/img/sbo.png">
+                                    <img width="228" height="278" src="/public/img/sbo.png">
                                 </figcaption>
                             </figure>
                         </a>
@@ -205,11 +204,9 @@ const breakpoints = {
                         style="visibility: visible; animation-name: zoomIn;">
                         <a title="KINGMAKER *" href="/เกมออนไลน์">
                             <figure class="imghvr-fold-up">
-                                <img width="228" height="278"
-                                    src="/public/img/km.png">
+                                <img width="228" height="278" src="/public/img/km.png">
                                 <figcaption>
-                                    <img width="228" height="278"
-                                        src="/public/img/km.png">
+                                    <img width="228" height="278" src="/public/img/km.png">
                                 </figcaption>
                             </figure>
                         </a>
@@ -219,11 +216,9 @@ const breakpoints = {
                         style="visibility: visible; animation-name: zoomIn;">
                         <a title="TFGAMING" href="/เกมออนไลน์">
                             <figure class="imghvr-fold-up">
-                                <img width="228" height="278"
-                                    src="/public/img/tf1-min.png">
+                                <img width="228" height="278" src="/public/img/tf1-min.png">
                                 <figcaption>
-                                    <img width="228" height="278"
-                                        src="/public/img/tf1-min.png">
+                                    <img width="228" height="278" src="/public/img/tf1-min.png">
                                 </figcaption>
                             </figure>
                         </a>
@@ -268,17 +263,30 @@ const breakpoints = {
                     <h2 class="tt_l">ข้อดีของการเป็นสมาชิกคาสิโน LINEXBET เซ็กซี่บาคาร่าที่สาวสวยที่สุด </h2>
                 </div>
                 <div class="tt_l tt_full">
-                    <div class="tt_l tt_full tt_txt_seo img_2x Parent zoomIn"
+                    <div class="tt_l tt_full tt_txt_seo Parent zoomIn"
                         style="visibility: visible; animation-name: zoomIn;">
                         <p style="text-align: center;">
                             <img class="wp-image-5019  alignnone" style="height: 400px; width: auto;"
                                 src="/public/img/Model_11.png" alt="" width="419" height="349">
                             <a href="/เกมออนไลน์">
-                                <img class="alignnone wp-image-1151" src="/public/img/XBT-Ep1.png" alt="" width="360"
+                                <img class="wp-image-1151" src="/public/img/XBT-Ep1.png" alt="" width="360"
                                     height="345">
                             </a>
                         </p>
                     </div>
+                    <Carousel :autoplay="2000" :items-to-show="2.5" :wrap-around="true" v-bind="settings"
+                        :breakpoints="breakpoints" class="tt_l tt_full slide_a mt-10">
+                        <Slide v-for="slide in slides2" :key="slide.id">
+                            <div class="carousel__item">
+                                <img v-bind:src="slide.src" alt="">
+                            </div>
+                        </Slide>
+
+                        <template #addons>
+                            <Navigation />
+                            <!-- <Pagination /> -->
+                        </template>
+                    </Carousel>
                 </div>
             </div>
             <div class="tt_l tt_full g_ct mt-10">
@@ -490,9 +498,7 @@ const breakpoints = {
     border-radius: 10px;
 }
 
-.carousel__slide {
-
-}
+.carousel__slide {}
 
 .carousel__prev,
 .carousel__next {
