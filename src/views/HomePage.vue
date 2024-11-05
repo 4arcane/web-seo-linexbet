@@ -7,6 +7,8 @@ import Banner_5 from '/public/img/Banner_5.png';
 import p1 from '/public/img/p1.jpg';
 import p2 from '/public/img/p2.jpg';
 import p3 from '/public/img/p3.jpg';
+import p4 from '/public/img/p4.jpg';
+import p5 from '/public/img/p5.jpg';
 
 const slides = [
     { id: '1', src: Banner_2 },
@@ -18,6 +20,8 @@ const slides2 = [
     { id: '1', src: p1 },
     { id: '2', src: p2 },
     { id: '3', src: p3 },
+    { id: '4', src: p4 },
+    { id: '5', src: p5 },
 ]
 
 const settings = {
